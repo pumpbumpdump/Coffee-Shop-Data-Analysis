@@ -19,3 +19,10 @@ Dimensions (Categorical Data):
 - Coffee Name: The specific name of the coffee purchased.
 - Roast Name: The name given to the specific roast.
 - Loyalty Card: Indicates whether the customer has a loyalty card (Yes/No).
+
+**Insights**
+- In recent years (2021-2022), sales from all type of coffee beans has dropped. Investigate whether there are issues with the quality of product or there's a new competitor in the market.
+- United States contributed to most of the sales (79%) compared to the United Kingdom and Ireland.
+
+**Recommendations**
+- Addressing the drop in sales in recent years (2021-2022), investigate whether there are issues with the quality of product or there's a new competitor in the market.
