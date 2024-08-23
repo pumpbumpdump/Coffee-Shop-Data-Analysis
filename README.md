@@ -21,7 +21,7 @@ Dimensions (Categorical Data):
 - Loyalty Card: Indicates whether the customer has a loyalty card (Yes/No).
 
 **Insights**
-- In recent years (2021-2022), sales from all type of coffee beans has dropped. Investigate whether there are issues with the quality of product or there's a new competitor in the market.
+- In recent years (2021-2022), sales from all type of coffee beans has dropped.
 - United States contributed to most of the sales (79%) compared to the United Kingdom and Ireland.
 
 **Recommendations**
