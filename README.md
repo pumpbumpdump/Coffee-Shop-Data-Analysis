@@ -1,4 +1,11 @@
-Analyzing a coffee shop's trends from 2019-2022.
+**Project BackGround**
+
+A coffee shop, established in 2019, specializes in offering a diverse selection of coffee beans and roast profiles. The coffee shop has significant amount of data on its sales that has been previously underutilized. This project analyzes the data in order to uncover critical insights that will further improve this coffee shop's commercial success.
+
+Insights and recommendations are provided  on the following key areas:
+- Sales Trends Analysis: Global evaluation of historical sales pattern, focusing on revenue.
+- Product Level Performance: An analysis of the coffee shop product line, understanding their impact and returns.
+
 This analysis purely uses Microsoft Excel because the data set is manageable in size. My primary goal is to produce easily understandable and also shareable results.
 
 ![image](https://github.com/user-attachments/assets/0d4b4d43-6b42-4c82-b698-c96a8d86a9b0)
