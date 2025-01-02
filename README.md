@@ -1,4 +1,4 @@
-**Project BackGround**
+**Project Background**
 
 A coffee shop, established in 2019, specializes in offering a diverse selection of coffee beans and roast profiles. The coffee shop has significant amount of data on its sales that has been previously underutilized. This project analyzes the data in order to uncover critical insights that will further improve this coffee shop's commercial success.
 
