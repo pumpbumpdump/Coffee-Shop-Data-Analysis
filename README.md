@@ -33,3 +33,4 @@ Dimensions (Categorical Data):
 
 **Recommendations**
 - Addressing the drop in sales in recent years (2021-2022), investigate whether there are issues with the quality of product or there's a new competitor in the market.
+- Leverage localized partnerships and culturally tailored promotions to harness growth opportunities in the United States, ensuring the stabilization of sales in these emerging markets.
